@@ -1,0 +1,51 @@
+Relatório
+
+
+Dias: 0
+Total de infetados: 9
+Total de Saudaveis: 9
+Total de imunes: 2
+Taxa de Infetados: 45.00%
+Taxa de Saudaveis: 45.00%
+Taxa de imunes: 10.00%
+
+
+Sala: 1
+Capacidade: 50
+Lotacao atual: 6
+
+	Nome: PauloPires1		Idade: 23		Estado: S
+	Nome: MarcoMarquesAAA		Idade: 40		Estado: I
+	Nome: SandraS		Idade: 56		Estado: D		Dias: 1
+	Nome: PauloAlves123		Idade: 34		Estado: D		Dias: 4
+	Nome: SandraMotaA1		Idade: 24		Estado: S
+	Nome: PedroPedra		Idade: 27		Estado: S
+
+Sala: 2
+Capacidade: 50
+Lotacao atual: 5
+
+	Nome: Tomas111		Idade: 12		Estado: I
+	Nome: PauloPires2		Idade: 67		Estado: D		Dias: 10
+	Nome: Olivia1		Idade: 12		Estado: S
+	Nome: DianaD		Idade: 89		Estado: S
+	Nome: TobiasF		Idade: 98		Estado: S
+
+Sala: 3
+Capacidade: 50
+Lotacao atual: 5
+
+	Nome: SamuelSimoes		Idade: 56		Estado: D		Dias: 1
+	Nome: HugoA		Idade: 20		Estado: D		Dias: 3
+	Nome: HugoB		Idade: 25		Estado: D		Dias: 10
+	Nome: Carlos1		Idade: 20		Estado: D		Dias: 3
+	Nome: LeonardoL		Idade: 10		Estado: S
+
+Sala: 4
+Capacidade: 50
+Lotacao atual: 4
+
+	Nome: SofiaA		Idade: 23		Estado: S
+	Nome: Zulmira2A		Idade: 17		Estado: S
+	Nome: HugoC		Idade: 14		Estado: D		Dias: 5
+	Nome: CarlaCardoso		Idade: 34		Estado: D		Dias: 7

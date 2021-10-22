@@ -1,0 +1,21 @@
+Olivia1	12	S
+HugoA	20	D	3
+DianaD	89	D	1
+PauloPires1	23	I
+PauloPires2	67	I
+HugoB	25	I
+HugoC	14	D	1
+PauloAlves123	34	D	2
+Carlos1	20	I
+PedroPedra	27	D	6
+TobiasF	98	I
+LeonardoL	10	D	2
+Diogo	37	I
+SofiaA	23	D	2
+MarcoMarquesAAA	40	I
+Tomas111	12	I
+Zulmira2A	17	I
+SamuelSimoes	56	I
+SandraS	56	D	4
+CarlaCardoso	34	D	5
+SandraMotaA1	24	S
